@@ -1,0 +1,44 @@
+body {
+    background-color: #2452;
+}
+
+.main {
+    text-align: center;
+}
+
+.main-title {
+    margin-bottom: 5%;
+}
+
+.main-button {
+    background-color: dodgerblue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 560px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    font-size: 19px;
+    margin-bottom: 32px;
+}
+
+.main-button--hover:hover {
+    background-color: black;
+
+}
+
+.main-card {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    width: 800px;
+    text-align: left;
+    padding: 22px;
+}
+
+
+.main-image {
+    width: 800px;
+    height: 800px;
+}
