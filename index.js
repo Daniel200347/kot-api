@@ -5,5 +5,4 @@ async function print() {
     const resultFetch = await response.json();
     document.getElementById("image").src = resultFetch.file;
 }
-
 print();
